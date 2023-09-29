@@ -1,5 +1,6 @@
 package Operators;
 import java.util.Scanner;
+//Implement a Java program to calculate the sum of all even numbers from 1 to 100.
 public class even1to100 {
     public static void main(String args[]){
 
